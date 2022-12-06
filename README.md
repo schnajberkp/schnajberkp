@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Peter
 - 👀 I’m interested in Linux, Python and SQL
-- 🌱 I’m currently learning Python and Linux
+- 🌱 I’m currently learning Python and AWS
 - 📫 How to reach me pschnajberk@seznam.cz
 
 <!---
