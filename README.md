@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Peter
-- 👀 I’m interested in modern technology such as AWS, Micro-Services, Containers, Python etc..
-- 🌱 I’m currently learning Python and AWS
-- 📫 How to reach me pschnajberk@seznam.cz
+- 👀 I work as a Dev Ops Engineer
+- ⛽I like meat and modern technology
+- 💯 I'm mostly using Git Hub to find answers, hopefully in the future I'll provide them as well
 
 <!---
 schnajberkp/schnajberkp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
