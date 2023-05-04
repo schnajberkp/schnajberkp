@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Peter
-- 👀 I work as a Dev Ops Engineer
+- 👀 I work as a System Engineer
 - ⛽I like meat and modern technology
 - 💯 I'm mostly using Git Hub to find answers, hopefully in the future I'll provide them as well
 
