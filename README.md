@@ -1,9 +1,2 @@
-- 👋 Hi, I’m Peter
-- 👀 I work as a System Engineer
-- ⛽I like meat and modern technology
-- 💯 I'm mostly using Git Hub to find answers, hopefully in the future I'll provide them as well
+Petr is an application engineer with strong experience in Linux systems, SQL databases and scripting. He is currently transitioning toward a DevOps role, focusing on expanding his skills in infrastructure and scripting. Outside of work, he enjoys hiking in the mountains, strength training, and maintaining a healthy lifestyle with a structured meal plan. Petr is detail-oriented, pragmatic, and motivated by continuous learning and self-improvement.
 
-<!---
-schnajberkp/schnajberkp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
